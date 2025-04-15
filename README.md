@@ -10,7 +10,7 @@ Files
 - `deployment.yaml`: Kubernetes Deployment config
 - `service.yaml`: Kubernetes Service (NodePort)
 
-## 🚀 How to Deploy
+## How to Deploy
 
 1. **Start Minikube**  
    `minikube start`
